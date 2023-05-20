@@ -1,0 +1,32 @@
+body{
+    /*"webgradients.com" to choose css code for various background color gradients*/
+    background-image: linear-gradient(to left, #dce2c0 0%, #c1d1ea 100%);
+}
+.col-md-4{
+    background-image: linear-gradient(240deg, #8c7acc 0%, #e3dbae 100%);
+    margin-top: 175px !important;
+    padding: 20px;
+}
+button{
+    margin: 20px !important;
+    border: 2px solid black !important;
+    font-family: cursive !important;
+}
+h1{
+    font-family: cursive;
+    color:rgb(65, 56, 56) !important;
+    margin: 20px !important;
+    font-size:xx-large !important;
+}
+input[type="button"]{
+    width : 100%;
+    background-color:rgb(65, 45, 194);
+    color: azure;
+    font-family: cursive;
+    border: 1.5px solid black;
+}
+input[type=text]{
+    width : 100%;
+    border: 1.5px solid black;
+    font-family: cursive;
+}
